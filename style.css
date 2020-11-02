@@ -1,0 +1,42 @@
+body, html {
+    background-size: cover;
+    background-color: #2C2F33;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, sans-serif;
+}
+
+.curved{
+    background:#2C2F33;
+    color: #fff;
+    text-align: center;
+}
+
+.curved h1{
+    font-size: 4rem;
+    font-family: 'Segone UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+}
+.curved p{
+    font-size: 2rem;
+    font-family: 'Segone UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+}
+
+.curved svg{
+    display: block;
+}
+
+.curved.upper{
+    background: #23272A;
+}
+
+
+#logo {
+    font-size: 2em;
+}
+
+img {
+    width: 7%;
+    float: left;
+}
